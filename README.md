@@ -2,7 +2,6 @@
 
 This analysis is based on the full data analysis. To avoid the data size constraint, data storage and analysis was done using Google drive tools
 
-
 ## The Taxi_data_analysis.ipny file has four components-
 ### 1.	Data cleaning and preprocessing
 
@@ -64,3 +63,6 @@ e.	If you run a taxi company with 10 taxis, how would you maximize your earnings
 
 ## The Taxi_analysis.ppt answers the Basic and Open question. 
 ### In appendix, some visualisation is depicted to understand the data and distribution.
+
+## Please refer the link below for codes, in case there is any issue accessing notebbok-
+https://nbviewer.jupyter.org/github/Jyoti-Obia/Project_assessment/blob/master/Taxi_data_analysis.ipynb
