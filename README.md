@@ -3,8 +3,8 @@
 This analysis is based on the full data analysis. To avoid the data size constraint, data storage and analysis was done using Google drive tools
 
 
-# The Taxi_data_analysis.ipny file has four components-
-## 1.	Data cleaning and preprocessing
+## The Taxi_data_analysis.ipny file has four components-
+### 1.	Data cleaning and preprocessing
 
 a.	Columns names in both the files had leading spaces which was removed. 
 
@@ -20,7 +20,7 @@ f.	trip_distance  was found to be zero in around 1 lakh trips, hence for those c
 
 g.	8871 trip records have tip amount greater than fare were removed from the dataset
 
-## 2.	EDA using Visualisation
+### 2.	EDA using Visualisation
 
 Matplotlib and Seaborn libraries used.
 
@@ -30,7 +30,7 @@ b.	Histograms for discrete variable
 
 c.	Correlation matrix for variable relationship
 
-## 3.	Basic Questions 
+### 3.	Basic Questions 
 
 a.	What is the distribution of number of passengers per trip? 
 
@@ -50,7 +50,7 @@ h.	Which trip has the highest standard deviation of travel time?
 
 i.	Which trip has most consistent fares? 
 
-## 4.	Open Questions 
+### 4.	Open Questions 
 
 a.	In what trips can you confidently use respective means as measures of central tendency to estimate fare, time taken, etc.
 
@@ -62,5 +62,5 @@ d.	If you were a taxi owner, how would you minimize your work time while retaini
 
 e.	If you run a taxi company with 10 taxis, how would you maximize your earnings? 
 
-### The Taxi_analysis.ppt answers the Basic and Open question. 
+## The Taxi_analysis.ppt answers the Basic and Open question. 
 ### In appendix, some visualisation is depicted to understand the data and distribution.
